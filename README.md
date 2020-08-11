@@ -1,3 +1,5 @@
+This is a YouTube clone application that uses the YouTube API and gives you the ability to search for a video, display the first video in the search, and then display a list of videos that you can choose from.  Is a project from JavaScript Mastery.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
